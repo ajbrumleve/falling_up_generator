@@ -1,23 +1,7 @@
-import math
 import string
 
 import numpy as np
-import pandas as pd
-from sklearn.model_selection import train_test_split
-import lyricsgenius
-import config
 
-genius = lyricsgenius.Genius(config.GENIUS_TOKEN)
-
-artist = genius.search_artist("Gloomcatcher", sort="title")
-
-print(len(artist.songs))
-with open('gloomcatcher.txt', 'w', encoding='utf-8') as f:
-    f.write(artist.songs[0].lyrics)
-for item in artist.songs[1:]:
-    with open('gloomcatcher.txt', 'a',encoding='utf-8') as f:
-        f.write('\n')
-        f.write(item.lyrics)
 input_files = [
   'falling_up.txt', 'gloomcatcher.txt', 'the_river_empires.txt'
 ]
