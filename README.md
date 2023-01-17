@@ -173,7 +173,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Andrew Brumleve - [@yAndrewBrumleve](https://twitter.com/AndrewBrumleve) - ajbrumleve@gmail.com
+Andrew Brumleve - [@AndrewBrumleve](https://twitter.com/AndrewBrumleve) - ajbrumleve@gmail.com
 
 Project Link: [https://github.com/ajbrumleve/lyrics_generator](https://github.com/ajbrumleve/lyrics_generator)
 
