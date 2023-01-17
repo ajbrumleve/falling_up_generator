@@ -117,7 +117,7 @@ pip install git+https://github.com/johnwmillr/LyricsGenius.git
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
 
 1. Before using this package you'll need to sign up for a (free) account that authorizes access to [the Genius API](http://genius.com/api-clients). The Genius account provides a `access_token` that is required by the package.
 2. Clone the repo
