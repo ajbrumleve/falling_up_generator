@@ -74,8 +74,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This project started as an Udemy project in the course Data Science: Natural Language Processing (NLP) in Python by Lazy Programmer. The original project was to be able to generate poetry by Robert Frost using a second order Markov model. I adapted the project and implemented the Genius API to be able to enter any combination of artists and train a second order Markov model to generate lyrics in the style of those artists.
 
 
